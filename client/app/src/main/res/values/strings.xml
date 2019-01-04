@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hangman</string>
+
+    <string name="score">Score: </string>
+    <string name="remaining_guesses">Remaining guesses: </string>
+    <string name="press_start">Press start to begin game</string>
+    <string name="guess_hint">Enter your guess here</string>
+    <string name="guessed_letter">Gussed letters: </string>
+    <string name="secret_word">The word was: </string>
+
+    <string name="button_restart">Restart game</string>
+    <string name="button_quit">Quit game</string>
+    <string name="button_guess">Guess</string>
+    <string name="button_start_game">Start game</string>
+
+</resources>
